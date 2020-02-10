@@ -9,6 +9,7 @@
 - 원격 접속은 되지않고 로컬에서 코딩하였습니다.
 - 여러 사람이 채팅방에 접속할 때, 쓰레드를 이용하여 자원 할당
 - 여러 개의 cmd창을 띄워놓고 그룹에 있는 한 사람이 말을 하게 되면 각 쓰레드에 broadcasting이 될 수 있도록 하였습니다. 
+- https://github.com/KyeongDeok/Chat_program-soket_program-
 
 #### b) 개발환경/기술
 - eclipse,java,window
@@ -24,6 +25,7 @@
 - 이용자가 예약날짜와 예약할 호수를 입력하면 그날 예약을 할 수 있도록하였습니다.
 - 만약 해당 날짜에 이미 예약이 되어있다면, 예약불가합니다 라는 팝업을 띄워줍니다.
 - view는 swing으로 작업을 하였고, 이미 예약된 호텔방은 노란색으로 칠해서 보여줍니다.
+- https://github.com/KyeongDeok/JDBC_hotel_reservation_program
 
 #### b) 개발환경/기술
 - JAVA, mysql, window, eclipse
@@ -47,6 +49,7 @@
 - 사용자가 프록시 서버에 사진을 요청했을 때, 프록시 서버에 해당사진이 있으면 바로 보여준다.
 - 만약, 사진이 없을경우 메인서버에서 사진을 요청하여 가져온 후, 그 사진을 프록시 서버에 저장 후 사진을 띄워준다.
 - 여기서의 프록시 서버는 캐시 서버의 역할을 한다.
+- https://github.com/KyeongDeok/Chat_program-soket_program-
 
 #### b) 개발환경/기술
 - C, Linux, make
@@ -67,6 +70,7 @@
 - 학습 속도 향상을 위해서 각 포스터의 크기를 resizing 
 - MINI VGG 모델을 벤치마킹하여 학습
 - Accuracy 0.79로 향상
+- https://github.com/KyeongDeok/movieposter_detect
 
 #### b) 개발환경/기술
 - jupyter, python, tensorflow, window
@@ -87,6 +91,8 @@
 - clarify라는 API를 이용하여 각 옷장의 의류의 종류를 알아내어 이를 DB에 저장
 - DB에 저장된 해당 옷의 정보를 이용하여 사용자는 의류를 추천받을 수 있음
 - 모바일 웹을 통해 자신의 옷장에 어떤 옷이 있는지 실시간으로 알 수 있음
+- https://github.com/KyeongDeok/AI_cordinator
+
 ### b) 개발환경/기술
 - rasberrypi,python,flask,nfc,AWS,nginx,gunicorn,mysql,ruby on rails
 #### c) 인원/본인역할/기여도
