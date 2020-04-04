@@ -47,7 +47,7 @@
 - 사용자가 프록시 서버에 사진을 요청했을 때, 프록시 서버에 해당사진이 있으면 바로 보여준다.
 - 만약, 사진이 없을경우 메인서버에서 사진을 요청하여 가져온 후, 그 사진을 프록시 서버에 저장 후 사진을 띄워준다.
 - 여기서의 프록시 서버는 캐시 서버의 역할을 한다.
-- https://github.com/KyeongDeok/Chat_program-soket_program-
+- https://github.com/KyeongDeok/proxy_client-server
 
 #### b) 개발환경/기술
 - C, Linux, make
