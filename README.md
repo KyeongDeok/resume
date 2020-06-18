@@ -156,6 +156,7 @@
 - mysqldump를 하여 카피해놓은 데이터를 새로운 서버에 넣는다.
 - 도메인을 프록시 서버로 옮기고, 요청이 프록시로 들어오게 한다.
 - 일정시간이 지난 후 도메인이 옮겨진 것을 확인 후, 나머지 옮겨지지 않은 데이터를 마져 옮긴다.
+- https://github.com/KyeongDeok/apache-access-log-analyzer
 
 #### b)개발환경/기술
 - mysql,AWS,Linux,php,php-fpm,nginx
@@ -201,7 +202,7 @@
 - 메일 리스트 보여주기 기능
 - 현재 메일 갯수와 용량 보여주기 기능
 - 새로고침 기능
-
+- https://github.com/KyeongDeok/pop3-imap-mail-download-client
 #### b)개발환경/기술
 - java, eclipse
 
